@@ -19,4 +19,3 @@ A modern twist on Uniswap v2, More gas efficient, Simple, featuring new standard
 Happy Usage
 
 https://x.com/tga_eth
- 
